@@ -67,3 +67,20 @@ background-color: #995841;
 .text{
     font-family: 'Abel', sans-serif;
 }
+
+.icon-bar{
+padding: 70px;
+font-size: 50px;
+}
+
+.facebook{
+    color:white ;
+}
+
+.instagram{
+    color: white;
+}
+
+.icon-bar a:hover {
+    color:gray;
+}
